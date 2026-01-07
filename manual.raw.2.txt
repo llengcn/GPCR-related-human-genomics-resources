@@ -1,0 +1,808 @@
+Class	Ligand type	Family	Receptor (UniProt)	Receptor (GtP)	Ligands Count	Structures Count	PDB(s)	Gs	Gi/o	Gq/11	G12/13
+A	Aminergic	5-Hydroxytryptamine	5HT1A	5-HT1A	9716	13	7E2X,7E2Y,...	-	Primary	-	-
+A	Aminergic	5-Hydroxytryptamine	5HT1B	5-HT1B	1754	5	4IAQ,4IAR,...	-	Primary	-	-
+A	Aminergic	5-Hydroxytryptamine	5HT1D	5-HT1D	1566	1	7E32	-	Primary	-	-
+A	Aminergic	5-Hydroxytryptamine	5HT1E	5-HT1E	210	3	7E33,8UGY,...	-	Primary	-	-
+A	Aminergic	5-Hydroxytryptamine	5HT1F	5-HT1F	185	1	7EXD	-	Primary	-	-
+A	Aminergic	5-Hydroxytryptamine	5HT2A	5-HT2A	5794	18	6A93,6A94,...	-	Secondary	Primary	-
+A	Aminergic	5-Hydroxytryptamine	5HT2B	5-HT2B	2469	11	4IB4,4NC3,...	-	-	Primary	-
+A	Aminergic	5-Hydroxytryptamine	5HT2C	5-HT2C	4506	7	6BQG,6BQH,...	-	Secondary	Primary	-
+A	Aminergic	5-Hydroxytryptamine	5HT4R	5-HT4	853	3	7XT8,7XT9,...	Primary	-	-	Secondary
+A	Aminergic	5-Hydroxytryptamine	5HT5A	5-HT5A	512	5	7UM4,7UM5,...	-	Primary	Secondary	-
+A	Aminergic	5-Hydroxytryptamine	5HT6R	5-HT6	4353	3	7XTB,7YS6,...	Primary	-	Secondary	-
+A	Aminergic	5-Hydroxytryptamine	5HT7R	5-HT7	3244	1	7XTC	Primary	-	-	-
+A	Aminergic	Acetylcholine (muscarinic)	ACM1	M1	4457	6	5CXV,6OIJ,...	-	-	Primary	-
+A	Aminergic	Acetylcholine (muscarinic)	ACM2	M2	3028	14	3UON,4MQS,...	Secondary	Primary	Secondary	-
+A	Aminergic	Dopamine	DRD2	D2	12465	8	6CM4,6LUQ,...	-	Primary	-	-
+A	Aminergic	Acetylcholine (muscarinic)	ACM3	M3	2662	9	4DAJ,4U14,...	-	-	Primary	-
+A	Aminergic	Acetylcholine (muscarinic)	ACM4	M4	1654	11	5DSG,6KP6,...	-	Primary	-	-
+A	Aminergic	Acetylcholine (muscarinic)	ACM5	M5	1203	1	6OL9	-	-	Primary	-
+A	Aminergic	Adrenoceptors	ADA1A	α1A-adrenoceptor	2952	6	7YM8,7YMH,...	-	-	Primary	Secondary
+A	Aminergic	Adrenoceptors	ADA1B	α1B-adrenoceptor	1836	1	7B6W	-	-	Primary	-
+A	Aminergic	Adrenoceptors	ADA1D	α1D-adrenoceptor	1498	0	-	-	-	Primary	-
+A	Aminergic	Adrenoceptors	ADA2A	α2A-adrenoceptor	1508	10	6KUX,6KUY,...	Secondary	Primary	-	-
+A	Aminergic	Adrenoceptors	ADA2B	α2B-adrenoceptor	927	2	6K41,6K42	Secondary	Primary	-	-
+A	Aminergic	Adrenoceptors	ADA2C	α2C-adrenoceptor	1044	1	6KUW	Secondary	Primary	-	-
+A	Aminergic	Adrenoceptors	ADRB1	β1-adrenoceptor	2139	34	2VT4,2Y00,...	Primary	Secondary	-	-
+A	Aminergic	Adrenoceptors	ADRB2	β2-adrenoceptor	2713	126	2R4R,2R4S,...	Primary	Secondary	-	-
+A	Aminergic	Adrenoceptors	ADRB3	β3-adrenoceptor	1643	5	7DH5,7XJH,...	Primary	Secondary	-	-
+A	Aminergic	Dopamine	DRD1	D1	3025	22	7CKW,7CKX,...	Primary	-	-	-
+A	Aminergic	Dopamine	DRD3	D3	6396	6	3PBL,7CMU,...	-	Primary	-	-
+A	Aminergic	Dopamine	DRD4	D4	3185	4	5WIU,5WIV,...	-	Primary	-	-
+A	Aminergic	Dopamine	DRD5	D5	521	1	8IRV	Primary	-	-	-
+A	Aminergic	Histamine	HRH1	H1	2608	7	3RZE,7DFL,...	-	-	Primary	-
+A	Aminergic	Histamine	HRH2	H2	827	5	7UL3,8POK,...	Secondary	-	Primary	-
+A	Aminergic	Histamine	HRH3	H3	5655	7	7F61,8YN5,...	-	Primary	-	-
+A	Aminergic	Histamine	HRH4	H4	1481	10	7YFC,7YFD,...	-	Primary	-	-
+A	Aminergic	Trace amine	TAAR1	TA1	2038	28	8JLJ,8JLK,...	Primary	-	Secondary	-
+A	Peptide	Angiotensin	AGTR1	AT1	2944	9	4YAY,4ZUD,...	-	Primary	Primary	-
+A	Peptide	Angiotensin	AGTR2	AT2	948	7	5UNF,5UNG,...	-	Primary	-	-
+A	Peptide	Apelin	APJ	apelin	597	14	5VBL,6KNM,...	-	Primary	-	-
+A	Peptide	Bombesin	NMBR	BB1	192	1	8H0P	-	-	Primary	-
+A	Peptide	Bombesin	GRPR	BB2	309	4	7W3Z,7W40,...	-	-	Primary	-
+A	Peptide	Bombesin	BRS3	BB3	341	2	8Y52,8Y53	-	-	Primary	-
+A	Peptide	Bradykinin	BKRB1	B1	875	1	7EIB	-	Primary	Primary	-
+A	Peptide	Bradykinin	BKRB2	B2	695	3	7F2O,7F6H,...	Primary	Primary	Primary	-
+A	Peptide	Cholecystokinin	CCKAR	CCK1	2207	12	7EZH,7EZK,...	Secondary	-	Primary	-
+A	Peptide	Cholecystokinin	GASR	CCK2	2304	5	7F8V,7F8W,...	-	-	Primary	-
+A	Peptide	Complement peptide	C3AR	C3a	219	9	8HK2,8HK3,...	-	-	-	-
+A	Peptide	Complement peptide	C5AR1	C5a1	478	12	5O9H,6C1Q,...	-	Primary	Secondary	-
+A	Peptide	Complement peptide	C5AR2	C5a2	12	0	-	-	-	-	-
+A	Peptide	Endothelin	EDNRA	ETA	2501	5	8HCQ,8XVI,...	-	-	Primary	-
+A	Peptide	Endothelin	EDNRB	ETB	1676	18	5GLH,5GLI,...	Primary	Primary	Primary	-
+A	Peptide	Formylpeptide	FPR1	FPR1	523	4	7EUO,7T6T,...	-	Primary	-	-
+A	Peptide	Formylpeptide	FPR2	FPR2/ALX	821	9	6LW5,6OMM,...	-	Primary	Secondary	-
+A	Peptide	Formylpeptide	FPR3	FPR3	426	0	-	-	Primary	-	-
+A	Peptide	Galanin	GALR1	GAL1	169	2	7WQ3,7XJJ	-	Primary	-	-
+A	Peptide	Galanin	GALR2	GAL2	169	4	7WQ4,7XBD,...	-	Secondary	Primary	Secondary
+A	Peptide	Galanin	GALR3	GAL3	232	0	-	-	Primary	-	-
+A	Peptide	Ghrelin	GHSR	ghrelin	2030	7	6KO5,7F83,...	-	Secondary	Primary	Secondary
+A	Peptide	Gonadotrophin-releasing hormone	GNRHR	GnRH1	1579	1	7BR3	-	Secondary	Primary	-
+A	Peptide	Kisspeptin	KISSR	kisspeptin	310	5	8XGO,8XGS,...	-	-	Primary	-
+A	Peptide	Melanin-concentrating hormone	MCHR1	MCH1	3639	10	8WSS,8WWH,...	Primary	Primary	Primary	-
+A	Peptide	Melanin-concentrating hormone	MCHR2	MCH2	53	1	8WST	-	-	Primary	-
+A	Peptide	Melanocortin	MSHR	MC1	1653	4	7F4D,7F4F,...	Primary	-	-	-
+A	Peptide	Melanocortin	ACTHR	MC2	31	1	8GY7	Primary	-	-	-
+A	Peptide	Melanocortin	MC3R	MC3	1084	1	8IOC	Primary	-	-	-
+A	Peptide	Melanocortin	MC4R	MC4	3619	11	6W25,7AUE,...	Primary	-	-	-
+A	Peptide	Melanocortin	MC5R	MC5	1286	2	8INR,8IOD	Primary	-	-	-
+A	Peptide	Motilin	MTLR	motilin	468	2	8IBU,8IBV	-	-	Primary	Primary
+A	Peptide	Neuromedin U	NMUR1	NMU1	125	2	7W53,7W56	-	-	Primary	-
+A	Peptide	Neuromedin U	NMUR2	NMU2	139	3	7W55,7W57,...	-	-	Primary	-
+A	Peptide	Neuropeptide FF/neuropeptide AF	NPFF1	NPFF1	148	0	-	-	Primary	-	-
+A	Peptide	Neuropeptide FF/neuropeptide AF	NPFF2	NPFF2	193	0	-	-	Primary	-	-
+A	Peptide	Neuropeptide S	NPSR1	NPS	15105	0	-	Secondary	-	Primary	-
+A	Peptide	Neuropeptide W/neuropeptide B	NPBW1	NPBW1	341	0	-	-	Primary	-	-
+A	Peptide	Neuropeptide W/neuropeptide B	NPBW2	NPBW2	4	0	-	-	Primary	-	-
+A	Peptide	Neuropeptide Y	NPY1R	Y1	1020	6	5ZBH,5ZBQ,...	-	Primary	-	-
+A	Sensory	Opsins	OPSX	RRH	0	0	-	-	-	-	-
+A	Peptide	Neuropeptide Y	NPY2R	Y2	834	5	7DDZ,7X9B,...	-	Primary	Secondary	-
+A	Peptide	Neuropeptide Y	NPY4R	Y4	252	1	7X9C	-	Primary	Secondary	-
+A	Peptide	Neuropeptide Y	NPY5R	Y5	1401	0	-	-	Primary	-	-
+A	Peptide	Neuropeptide Y	NPY6R	y6	0	0	-	-	-	-	-
+A	Peptide	Neurotensin	NTR1	NTS1	633	31	3ZEV,4BUO,...	Secondary	Secondary	Primary	-
+A	Peptide	Neurotensin	NTR2	NTS2	189	0	-	-	-	Primary	-
+A	Peptide	Opioid	OPRD	δ	7383	8	4EJ4,4N6H,...	-	Primary	-	-
+A	Peptide	Opioid	OPRK	κ	8189	11	4DJH,6B73,...	-	Primary	-	Secondary
+A	Peptide	Opioid	OPRM	μ	9749	25	4DKL,5C1M,...	-	Primary	Secondary	-
+A	Peptide	Opioid	OPRX	NOP	1780	4	4EA3,5DHG,...	-	Primary	-	-
+A	Peptide	Orexin	OX1R	OX1	3611	14	4ZJ8,4ZJC,...	Primary	Primary	Primary	-
+A	Peptide	Orexin	OX2R	OX2	3498	11	4S0V,5WQC,...	Primary	Primary	Primary	-
+A	Peptide	Peptide P518	QRFPR	QRFP	114	2	8WZ2,8ZH8	-	Primary	Primary	-
+A	Peptide	Prolactin-releasing peptide	PRLHR	PrRP	239	2	8ZPS,8ZPT	-	-	-	-
+A	Peptide	Proteinase-activated	PAR1	PAR1	906	3	3VW7,8XOR,...	-	-	-	-
+A	Peptide	Proteinase-activated	PAR2	PAR2	168	3	5NDD,5NDZ,...	-	-	-	-
+A	Peptide	Proteinase-activated	PAR3	PAR3	0	0	-	-	-	-	-
+A	Peptide	Proteinase-activated	PAR4	PAR4	982	0	-	-	-	-	-
+A	Peptide	Relaxin family peptide	RXFP1	RXFP1	5112	1	7TMW	Primary	Primary	-	-
+A	Peptide	Relaxin family peptide	RXFP2	RXFP2	24	0	-	Primary	Primary	-	-
+A	Peptide	Relaxin family peptide	RL3R1	RXFP3	114	0	-	-	Primary	-	-
+A	Peptide	Relaxin family peptide	RL3R2	RXFP4	69	3	7YJ4,7YK6,...	-	Primary	-	-
+A	Peptide	Somatostatin	SSR1	SST1	656	2	8XIO,8XIP	-	Primary	-	-
+A	Peptide	Somatostatin	SSR2	SST2	1069	17	7T10,7T11,...	-	Primary	-	-
+A	Peptide	Somatostatin	SSR3	SST3	853	2	8XIQ,8XIR	-	Primary	-	-
+A	Peptide	Somatostatin	SSR4	SST4	642	2	7XMS,7XMT	-	Primary	-	-
+A	Peptide	Somatostatin	SSR5	SST5	909	4	8X8L,8X8N,...	-	Primary	-	-
+A	Peptide	Tachykinin	NK1R	NK1	2998	12	6E59,6HLL,...	Primary	-	Primary	-
+A	Peptide	Tachykinin	NK2R	NK2	1214	1	7XWO	Primary	-	Primary	-
+A	Peptide	Tachykinin	NK3R	NK3	1029	3	8JBF,8JBG,...	-	-	Primary	-
+A	Orphan	A orphans	GPR3	GPR3	35	3	8U8F,8WW2,...	Primary	-	-	-
+A	Peptide	Thyrotropin-releasing hormone	TRFR	TRH1	54	4	7WKD,7X1T,...	-	-	Primary	-
+A	Peptide	Urotensin	UR2R	UT	715	0	-	-	-	Primary	-
+A	Peptide	Vasopressin and oxytocin	V1AR	V1A	1446	0	-	-	-	Primary	-
+A	Peptide	Vasopressin and oxytocin	V1BR	V1B	545	0	-	-	-	Primary	-
+A	Peptide	Vasopressin and oxytocin	V2R	V2	1321	5	7BB6,7BB7,...	Primary	-	-	-
+A	Peptide	Vasopressin and oxytocin	OXYR	OT	1381	3	6TPK,7QVM,...	-	Secondary	Primary	-
+A	Protein	Chemerin receptor	CML1	chemerin	123	2	7YKD,8SG1	-	Primary	-	-
+A	Protein	Chemerin receptor	CML2	chemerin 2	7	2	8JJP,8XGM	-	-	-	-
+A	Protein	Chemokine	CCR1	CCR1	810	3	7VL8,7VL9,...	-	Primary	-	-
+A	Protein	Chemokine	CCR2	CCR2	1862	4	5T1A,6GPS,...	-	Primary	-	-
+A	Protein	Chemokine	CCR3	CCR3	1157	1	7X9Y	-	Primary	-	-
+A	Protein	Chemokine	CCR4	CCR4	503	0	-	-	Primary	-	-
+A	Protein	Chemokine	CCR5	CCR5	2195	11	4MBS,5UIW,...	-	Primary	-	-
+A	Protein	Chemokine	CCR6	CCR6	257	3	6WWZ,9D3E,...	-	Primary	-	-
+A	Protein	Chemokine	CCR7	CCR7	31	1	6QZH	-	Primary	-	-
+A	Protein	Chemokine	CCR8	CCR8	222	6	8KFX,8KFY,...	-	Primary	-	-
+A	Protein	Chemokine	CCR9	CCR9	170	1	5LWE	-	Primary	-	-
+A	Protein	Chemokine	CCR10	CCR10	42	0	-	-	Primary	-	-
+A	Protein	Chemokine	CXCR1	CXCR1	322	1	8IC0	-	Primary	Secondary	-
+A	Protein	Chemokine	CXCR2	CXCR2	1061	3	6LFL,6LFM,...	-	Primary	-	-
+A	Protein	Chemokine	CXCR3	CXCR3	1617	6	8HNK,8HNL,...	-	Primary	-	-
+A	Protein	Chemokine	CXCR4	CXCR4	1014	14	3ODU,3OE0,...	-	Primary	-	-
+A	Protein	Chemokine	CXCR5	CXCR5	78	0	-	-	Primary	-	-
+A	Protein	Chemokine	CXCR6	CXCR6	51	0	-	-	Primary	-	-
+A	Protein	Chemokine	CX3C1	CX3CR1	85	2	7XBW,7XBX	-	Primary	-	-
+A	Protein	Chemokine	XCR1	XCR1	2	1	9AST	-	Primary	-	-
+A	Protein	Chemokine	ACKR1	ACKR1	0	1	8JPS	-	-	-	-
+A	Protein	Chemokine	ACKR2	ACKR2	0	0	-	-	-	-	-
+A	Protein	Chemokine	ACKR3	ACKR3	815	7	7SK3,7SK4,...	-	-	-	-
+A	Protein	Chemokine	ACKR4	ACKR4	3	0	-	-	-	-	-
+A	Protein	Chemokine	CCRL2	CCRL2	155	0	-	-	-	-	-
+A	Protein	Glycoprotein hormone	FSHR	FSH	96	2	8I2G,8I2H	Primary	Primary	Primary	-
+A	Protein	Glycoprotein hormone	LSHR	LH	113	4	7FIG,7FIH,...	Primary	-	Secondary	-
+A	Protein	Glycoprotein hormone	TSHR	TSH	16292	7	7T9I,7T9M,...	Primary	-	Secondary	-
+A	Protein	Prokineticin	PKR1	PKR1	167	0	-	Secondary	-	Primary	-
+A	Protein	Prokineticin	PKR2	PKR2	9	0	-	Secondary	Secondary	Primary	-
+A	Lipid	Free fatty acid	FFAR1	FFA1	1785	9	4PHU,5KW2,...	Secondary	Secondary	Primary	-
+A	Lipid	Free fatty acid	FFAR2	FFA2	217	5	8J22,8J23,...	-	Secondary	Primary	-
+A	Lipid	Free fatty acid	FFAR3	FFA3	73	2	8J20,8J21	-	Primary	-	-
+A	Lipid	Free fatty acid	FFAR4	FFA4	476	12	8G59,8H4I,...	-	-	Primary	-
+A	Lipid	Free fatty acid	GPR42	GPR42	0	0	-	-	-	-	-
+A	Lipid	Leukotriene	LT4R1	BLT1	364	3	5X33,7K15,...	-	Primary	Primary	-
+A	Lipid	Leukotriene	LT4R2	BLT2	84	0	-	-	Primary	Secondary	-
+A	Lipid	Leukotriene	CLTR1	CysLT1	671	2	6RZ4,6RZ5	-	Secondary	Primary	-
+A	Lipid	Leukotriene	CLTR2	CysLT2	98	4	6RZ6,6RZ7,...	-	Secondary	Primary	-
+A	Lipid	Leukotriene	OXER1	OXE	80	0	-	-	Primary	-	-
+A	Lipid	Lysophospholipid (LPA)	LPAR1	LPA1	333	16	4Z34,4Z35,...	-	Primary	Primary	Primary
+A	Lipid	Lysophospholipid (LPA)	LPAR2	LPA2	179	0	-	-	Primary	Primary	Primary
+A	Lipid	Lysophospholipid (LPA)	LPAR3	LPA3	158	0	-	-	Primary	Primary	-
+A	Lipid	Lysophospholipid (LPA)	LPAR4	LPA4	22	0	-	Primary	Primary	Primary	Primary
+A	Lipid	Lysophospholipid (LPA)	LPAR5	LPA5	155	0	-	-	-	Primary	Primary
+A	Lipid	Lysophospholipid (LPA)	LPAR6	LPA6	12	1	5XSZ	Primary	Primary	-	Primary
+A	Lipid	Lysophospholipid (S1P)	S1PR1	S1P1	2682	17	3V2W,3V2Y,...	-	Primary	-	-
+A	Lipid	Lysophospholipid (S1P)	S1PR2	S1P2	408	1	7T6B	Primary	-	Primary	Primary
+A	Lipid	Lysophospholipid (S1P)	S1PR3	S1P3	1111	4	7C4S,7EW2,...	-	Primary	Primary	Primary
+A	Lipid	Lysophospholipid (S1P)	S1PR4	S1P4	500	0	-	-	Primary	-	Primary
+A	Lipid	Lysophospholipid (S1P)	S1PR5	S1P5	426	2	7EW1,7YXA	-	Primary	-	Primary
+A	Lipid	Cannabinoid	CNR1	CB1	5743	21	5TGZ,5U09,...	Secondary	Primary	-	-
+A	Lipid	Cannabinoid	CNR2	CB2	7178	9	5ZTY,6KPC,...	Secondary	Primary	-	-
+A	Lipid	GPR18, GPR55 and GPR119	GPR18	GPR18	52	0	-	-	Primary	Primary	-
+A	Lipid	GPR18, GPR55 and GPR119	GPR55	GPR55	678	4	8ZX4,8ZX5,...	-	-	Primary	Primary
+A	Lipid	GPR18, GPR55 and GPR119	GP119	GPR119	1642	7	7WCM,7WCN,...	Primary	-	-	-
+A	Lipid	Platelet-activating factor	PTAFR	PAF	1414	3	5ZKP,5ZKQ,...	-	Primary	Primary	-
+A	Lipid	Prostanoid	PD2R	DP1	714	0	-	Primary	-	-	-
+A	Lipid	Prostanoid	PD2R2	DP2	2852	6	6D26,6D27,...	-	Primary	-	-
+A	Lipid	Prostanoid	PE2R1	EP1	1050	0	-	-	Secondary	Primary	-
+A	Lipid	Prostanoid	PE2R2	EP2	775	3	7CX2,7CX3,...	Primary	-	-	-
+A	Lipid	Prostanoid	PE2R3	EP3	1137	4	6AK3,6M9T,...	-	Primary	Secondary	-
+A	Lipid	Prostanoid	PE2R4	EP4	1115	8	5YHL,5YWY,...	Primary	Secondary	-	-
+A	Lipid	Prostanoid	PF2R	FP	232	8	8IQ4,8IQ6,...	Secondary	-	Primary	-
+A	Lipid	Prostanoid	PI2R	IP	427	2	8X79,8X7A	Primary	Secondary	Secondary	-
+A	Lipid	Prostanoid	TA2R	TP	1333	4	6IIU,6IIV,...	-	-	Primary	-
+A	Melatonin	Melatonin	MTR1A	MT1	1082	8	6ME2,6ME3,...	-	Primary	Secondary	-
+A	Melatonin	Melatonin	MTR1B	MT2	982	5	6ME6,6ME7,...	-	Primary	-	-
+A	Nucleotide	Adenosine	AA1R	A1	8057	5	5N2S,5UEN,...	Secondary	Primary	Secondary	-
+A	Nucleotide	Adenosine	AA2AR	A2A	6866	80	2YDO,2YDV,...	Primary	-	Secondary	-
+A	Nucleotide	Adenosine	AA2BR	A2B	2615	4	7XY6,7XY7,...	Primary	-	Secondary	-
+A	Nucleotide	Adenosine	AA3R	A3	5032	2	8X16,8X17	-	Primary	-	-
+A	Nucleotide	P2Y	P2RY1	P2Y1	730	4	4XNV,4XNW,...	-	Secondary	Primary	-
+A	Nucleotide	P2Y	P2RY2	P2Y2	323	0	-	-	Secondary	Primary	Secondary
+A	Nucleotide	P2Y	P2RY4	P2Y4	180	0	-	-	-	Primary	-
+A	Nucleotide	P2Y	P2RY6	P2Y6	285	0	-	-	-	Primary	Secondary
+A	Nucleotide	P2Y	P2Y11	P2Y11	44	0	-	Secondary	-	Primary	-
+A	Nucleotide	P2Y	P2Y12	P2Y12	1196	5	4NTJ,4PXZ,...	-	-	-	-
+A	Nucleotide	P2Y	P2Y13	P2Y13	16	0	-	-	Primary	-	-
+A	Nucleotide	P2Y	P2Y14	P2Y14	368	0	-	-	Primary	-	-
+A	Steroid	Bile acid	GPBAR	GPBA	865	5	7BW0,7CFM,...	Primary	-	-	-
+A	Steroid	Estrogen (G protein-coupled)	GPER1	GPER	13	5	8XOF,8XOG,...	Secondary	Primary	-	-
+A	Alicarboxylic acid	Hydroxycarboxylic acid	HCAR1	HCA1	188	0	-	-	Primary	-	-
+A	Alicarboxylic acid	Hydroxycarboxylic acid	HCAR2	HCA2	623	34	7XK2,7ZL9,...	-	Primary	-	-
+A	Alicarboxylic acid	Hydroxycarboxylic acid	HCAR3	HCA3	121	4	8IHJ,8IHK,...	-	Primary	-	-
+A	Alicarboxylic acid	Oxoglutarate	OXGR1	oxoglutarate	44	0	-	-	-	Primary	-
+A	Alicarboxylic acid	Succinate	SUCR1	succinate	106	10	6IBB,6RNK,...	-	Primary	Secondary	-
+A	Sensory	Opsins	OPSD	Rhodopsin	1	76	1F88,1GZM,...	-	-	-	-
+A	Sensory	Opsins	OPN3	OPN3	0	0	-	-	-	-	-
+A	Sensory	Opsins	OPN4	OPN4	0	0	-	-	Primary	Primary	-
+A	Sensory	Opsins	OPN5	OPN5	0	0	-	-	Primary	-	-
+A	Sensory	Opsins	OPSB	OPN1SW	0	0	-	-	-	-	-
+A	Sensory	Opsins	OPSG	OPN1MW	0	0	-	-	-	-	-
+A	Sensory	Opsins	OPSR	OPN1LW	0	1	8IU2	-	-	-	-
+A	Orphan	A orphans	GPR4	GPR4	72	1	8ZFJ	Primary	Primary	Primary	Primary
+A	Orphan	A orphans	GPR6	GPR6	777	4	8T1V,8T1W,...	Primary	Primary	-	-
+A	Orphan	A orphans	GPR12	GPR12	2	1	7Y3G	Primary	Primary	-	-
+A	Orphan	A orphans	GPR15	GPR15	3	1	8ZQE	-	-	-	-
+A	Orphan	A orphans	GPR17	GPR17	82	1	7Y89	-	Primary	Secondary	-
+A	Orphan	A orphans	GPR19	GPR19	1	0	-	-	-	-	-
+A	Orphan	A orphans	GPR20	GPR20	0	3	8HS2,8HS3,...	-	Primary	-	-
+A	Orphan	A orphans	GPR21	GPR21	0	5	8HIX,8HJ0,...	-	-	-	-
+A	Orphan	A orphans	GPR22	GPR22	0	0	-	-	Primary	-	-
+A	Orphan	A orphans	GPR25	GPR25	0	0	-	-	-	-	-
+A	Orphan	A orphans	GPR26	GPR26	0	0	-	Primary	-	-	-
+A	Orphan	A orphans	GPR27	GPR27	43	0	-	-	-	Primary	-
+A	Orphan	A orphans	GPR31	GPR31	1	0	-	-	Primary	-	-
+A	Orphan	A orphans	GPR32	GPR32	3	0	-	-	-	-	-
+A	Orphan	A orphans	GPR33	GPR33	0	0	-	-	Primary	-	-
+A	Orphan	A orphans	GPR34	GPR34	89	9	8IYX,8IZ4,...	-	Primary	-	-
+A	Orphan	A orphans	GPR35	GPR35	423	1	8H8J	-	-	-	-
+A	Orphan	A orphans	TAA7F	TAAR7F	0	1	8PM2	-	-	-	-
+A	Orphan	A orphans	GPR37	GPR37	2	0	-	-	Primary	-	-
+A	Orphan	A orphans	G37L1	GPR37L1	1	0	-	-	Primary	-	-
+A	Orphan	A orphans	GPR39	GPR39	83	0	-	Secondary	-	Primary	Secondary
+A	Orphan	A orphans	GPR45	GPR45	0	0	-	-	-	-	-
+A	Orphan	A orphans	MTR1L	GPR50	0	0	-	-	-	-	-
+A	Orphan	A orphans	GPR52	GPR52	333	5	6LI0,6LI1,...	-	-	-	-
+A	Orphan	A orphans	GPR61	GPR61	1	3	8KGK,8TB0,...	-	-	-	-
+A	Orphan	A orphans	GPR62	GPR62	0	0	-	-	-	-	-
+A	Orphan	A orphans	GPR63	GPR63	3	0	-	-	-	-	-
+A	Orphan	A orphans	PSYR	GPR65	55	0	-	Primary	-	-	-
+A	Orphan	A orphans	OGR1	GPR68	6	0	-	-	Primary	Primary	-
+A	Orphan	A orphans	GPR75	GPR75	1	0	-	-	-	Primary	-
+A	Orphan	A orphans	GPR78	GPR78	0	0	-	Primary	-	-	-
+A	Orphan	A orphans	GPR82	GPR82	0	0	-	-	-	-	-
+A	Orphan	A orphans	GPR83	GPR83	3	0	-	-	-	-	-
+A	Orphan	A orphans	GPR84	GPR84	677	4	8G05,8J18,...	-	Primary	-	-
+A	Orphan	A orphans	GPR85	GPR85	0	0	-	-	-	-	-
+A	Orphan	A orphans	GPR87	GPR87	3	0	-	-	-	-	-
+A	Orphan	A orphans	GPR88	GPR88	338	2	7EJX,7WZ4	-	-	-	-
+A	Orphan	A orphans	GP101	GPR101	0	3	8W8Q,8W8R,...	Primary	-	-	-
+A	Orphan	A orphans	GP132	GPR132	4	4	8HQE,8HQM,...	-	-	-	-
+A	Orphan	A orphans	GP135	GPR135	0	0	-	-	-	-	-
+A	Orphan	A orphans	GP139	GPR139	337	4	7VUG,7VUH,...	-	-	Primary	-
+A	Orphan	A orphans	GP141	GPR141	0	0	-	-	-	-	-
+A	Orphan	A orphans	GP142	GPR142	193	0	-	-	-	-	-
+A	Orphan	A orphans	GP146	GPR146	0	0	-	-	-	-	-
+A	Orphan	A orphans	GP148	GPR148	0	0	-	-	-	-	-
+A	Orphan	A orphans	GP149	GPR149	0	0	-	-	-	-	-
+A	Orphan	A orphans	GP150	GPR150	0	0	-	-	-	-	-
+A	Orphan	A orphans	GP151	GPR151	0	0	-	-	-	-	-
+A	Orphan	A orphans	TAAR8	TAAR8	0	0	-	-	-	-	-
+A	Orphan	A orphans	GP152	GPR152	0	0	-	-	-	-	-
+A	Orphan	A orphans	GP153	GPR153	0	0	-	-	-	-	-
+A	Orphan	A orphans	GP160	GPR160	0	0	-	-	-	-	-
+A	Orphan	A orphans	GP161	GPR161	1	2	8KH4,8SMV	-	-	-	-
+A	Orphan	A orphans	GP162	GPR162	0	0	-	-	-	-	-
+A	Orphan	A orphans	GP171	GPR171	0	0	-	-	-	-	-
+A	Orphan	A orphans	GP173	GPR173	0	0	-	-	-	-	-
+A	Orphan	A orphans	GP174	GPR174	106	3	7XV3,8IZB,...	-	-	-	-
+A	Orphan	A orphans	GP176	GPR176	0	0	-	-	-	-	-
+A	Orphan	A orphans	GP182	GPR182	1	0	-	-	-	-	-
+A	Orphan	A orphans	GP183	GPR183	196	2	7TUY,7TUZ	-	Primary	-	-
+A	Orphan	A orphans	LGR4	LGR4	4	9	8WVU,8WVV,...	-	-	-	-
+A	Orphan	A orphans	LGR5	LGR5	4	0	-	-	-	-	-
+A	Orphan	A orphans	LGR6	LGR6	8	0	-	-	-	-	-
+A	Orphan	A orphans	MAS	MAS1	13	0	-	-	Primary	Primary	-
+A	Orphan	A orphans	MAS1L	MAS1L	0	0	-	-	-	-	-
+A	Orphan	A orphans	MRGRD	MRGPRD	1	6	7Y12,7Y13,...	-	Primary	Primary	-
+A	Orphan	A orphans	MRGRE	MRGPRE	0	0	-	-	-	-	-
+A	Orphan	A orphans	MRGRF	MRGPRF	0	0	-	-	-	-	-
+A	Orphan	A orphans	MRGRG	MRGPRG	0	0	-	-	-	-	-
+A	Orphan	A orphans	MRGX1	MRGPRX1	158	7	8DWC,8DWG,...	-	-	Primary	-
+A	Orphan	A orphans	MRGX2	MRGPRX2	21	14	7S8L,7S8M,...	-	Primary	Primary	-
+A	Orphan	A orphans	MRGX3	MRGPRX3	0	0	-	-	-	Primary	-
+A	Orphan	A orphans	MRGX4	MRGPRX4	203	4	7S8P,8K4S,...	-	-	Primary	-
+A	Orphan	A orphans	P2RY8	P2RY8	0	0	-	-	-	-	-
+A	Orphan	A orphans	P2Y10	P2RY10	122	1	8KGG	-	-	-	-
+A	Orphan	A orphans	TAAR2	TAAR2	0	0	-	-	-	-	-
+A	Orphan	A orphans	TAAR3	TAAR3	1	0	-	-	-	-	-
+A	Orphan	A orphans	TAAR5	TAAR5	5	0	-	-	-	-	-
+A	Orphan	A orphans	TAAR6	TAAR6	0	0	-	-	-	-	-
+A	Orphan	A orphans	TAAR9	TAAR9	0	7	8ITF,8IW1,...	-	-	-	-
+B1	Peptide	Calcitonin	CALCR	CT	168	17	5UZ7,6NIY,...	Primary	-	Secondary	-
+B1	Peptide	Calcitonin	CALRL	calcitonin -like	744	6	6E3Y,6UUN,...	-	-	-	-
+B1	Peptide	Corticotropin-releasing factor	CRFR1	CRF1	2487	7	4K5Y,4Z9G,...	Primary	-	Secondary	-
+B1	Peptide	Corticotropin-releasing factor	CRFR2	CRF2	170	3	6PB1,7TRY,...	Primary	-	Secondary	-
+B1	Peptide	Glucagon	GHRHR	GHRH	78	3	7CZ5,7V9L,...	Primary	-	-	-
+B1	Peptide	Glucagon	GIPR	GIP	179	10	7DTY,7FIN,...	Primary	-	-	-
+B1	Peptide	Glucagon	GLP1R	GLP-1	1065	45	5NX2,5VAI,...	Primary	-	-	-
+B1	Peptide	Glucagon	GLP2R	GLP-2	114	1	7D68	Primary	-	-	-
+B1	Peptide	Glucagon	GLR	glucagon	1241	18	4L6R,5EE7,...	Primary	-	-	-
+B1	Peptide	Glucagon	SCTR	secretin	17	3	6WI9,6WZG,...	Primary	-	-	-
+B1	Peptide	Parathyroid hormone	PTH1R	PTH1	185	24	6FJ3,6NBF,...	Primary	-	Secondary	-
+B1	Peptide	Parathyroid hormone	PTH2R	PTH2	25	1	7F16	-	-	-	-
+B1	Peptide	VIP and PACAP	PACR	PAC1	120	5	6LPB,6M1H,...	Primary	-	Primary	-
+B1	Peptide	VIP and PACAP	VIPR1	VPAC1	96	3	6VN7,8E3Y,...	Primary	Secondary	Secondary	-
+B1	Peptide	VIP and PACAP	VIPR2	VPAC2	98	2	7VQX,7WBJ	Primary	-	-	-
+B2	Adhesion	ADGRL	AGRL1	ADGRL1	3	0	-	-	-	Primary	-
+B2	Adhesion	ADGRL	AGRL2	ADGRL2	1	0	-	-	-	-	-
+B2	Adhesion	ADGRL	AGRL3	ADGRL3	1	6	7SF7,7WY5,...	-	-	-	-
+B2	Adhesion	ADGRL	AGRL4	ADGRL4	0	0	-	-	-	-	-
+B2	Adhesion	ADGRE	AGRE1	ADGRE1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51B4	OR51B4	0	0	-	-	-	-	-
+B2	Adhesion	ADGRE	AGRE2	ADGRE2	0	0	-	-	-	Primary	-
+B2	Adhesion	ADGRE	AGRE3	ADGRE3	0	0	-	-	-	-	-
+B2	Adhesion	ADGRE	AGRE4	ADGRE4P	0	0	-	-	-	-	-
+B2	Adhesion	ADGRE	AGRE5	ADGRE5	0	6	7YDH,7YDJ,...	-	-	-	Primary
+B2	Adhesion	ADGRA	AGRA1	ADGRA1	0	0	-	-	-	-	-
+B2	Adhesion	ADGRA	AGRA2	ADGRA2	0	0	-	-	-	-	-
+B2	Adhesion	ADGRA	AGRA3	ADGRA3	0	0	-	-	-	-	-
+B2	Adhesion	ADGRC	CELR1	CELSR1	0	0	-	-	-	-	-
+B2	Adhesion	ADGRC	CELR2	CELSR2	0	0	-	-	-	-	-
+B2	Adhesion	ADGRC	CELR3	CELSR3	0	0	-	-	-	-	-
+B2	Adhesion	ADGRD	AGRD1	ADGRD1	0	2	7EPT,7WU2	Primary	-	-	-
+B2	Adhesion	ADGRD	AGRD2	ADGRD2	0	0	-	-	-	-	-
+B2	Adhesion	ADGRF	AGRF1	ADGRF1	11	9	7WU3,7WU4,...	-	-	-	-
+B2	Adhesion	ADGRF	AGRF2	ADGRF2	0	0	-	-	-	-	-
+B2	Adhesion	ADGRF	AGRF3	ADGRF3	0	0	-	-	-	-	-
+B2	Adhesion	ADGRF	AGRF4	ADGRF4	0	0	-	-	-	-	-
+B2	Adhesion	ADGRF	AGRF5	ADGRF5	0	0	-	-	-	-	-
+B2	Adhesion	ADGRB	AGRB1	ADGRB1	1	0	-	-	-	-	-
+B2	Adhesion	ADGRB	AGRB2	ADGRB2	0	0	-	-	-	-	-
+B2	Adhesion	ADGRB	AGRB3	ADGRB3	0	0	-	-	-	-	-
+B2	Adhesion	ADGRG	AGRG1	ADGRG1	0	1	7SF8	-	-	Primary	Primary
+B2	Adhesion	ADGRG	AGRG2	ADGRG2	0	6	7WUI,7WUQ,...	-	-	Secondary	-
+B2	Adhesion	ADGRG	AGRG3	ADGRG3	1	2	7D76,7D77	-	Primary	-	-
+B2	Adhesion	ADGRG	AGRG4	ADGRG4	0	1	7WUJ	-	-	-	-
+B2	Adhesion	ADGRG	AGRG5	ADGRG5	0	1	7EQ1	-	-	-	-
+B2	Adhesion	ADGRG	AGRG6	ADGRG6	0	0	-	-	-	-	-
+B2	Adhesion	ADGRG	AGRG7	ADGRG7	0	0	-	-	-	-	-
+B2	Adhesion	ADGRV	AGRV1	ADGRV1	0	0	-	-	-	-	-
+C	Ion	Calcium-sensing	CASR	CaS	623	29	7DD5,7DD6,...	-	Primary	Primary	Primary
+C	Amino acid	GABAB	GABR1	GABAB1	70	1	6W2Y	-	-	-	-
+C	Amino acid	GABAB	GABR2	GABAB2	2	12	6UO8,6UO9,...	-	-	-	-
+C	Amino acid	Metabotropic glutamate	GRM1	mGlu1	1066	3	4OR2,7DGD,...	Secondary	Secondary	Primary	-
+C	Amino acid	Metabotropic glutamate	GRM2	mGlu2	2022	23	7E9G,7EPA,...	-	Primary	-	-
+C	Amino acid	Metabotropic glutamate	GRM3	mGlu3	397	8	7WI6,7WI8,...	-	Primary	-	-
+O1	Odorant	Odorant family 51	O51B5	OR51B5	0	0	-	-	-	-	-
+C	Amino acid	Metabotropic glutamate	GRM4	mGlu4	908	4	7E9H,8JD6,...	-	Primary	-	-
+C	Amino acid	Metabotropic glutamate	GRM5	mGlu5	3883	21	4OO9,5CGC,...	Secondary	Secondary	Primary	-
+C	Amino acid	Metabotropic glutamate	GRM6	mGlu6	145	0	-	-	Primary	-	-
+C	Amino acid	Metabotropic glutamate	GRM7	mGlu7	234	1	7EPC	-	Primary	-	-
+C	Amino acid	Metabotropic glutamate	GRM8	mGlu8	186	0	-	-	Primary	-	-
+C	Sensory	Taste 1	TS1R1	TAS1R1	0	0	-	-	-	-	-
+C	Sensory	Taste 1	TS1R2	TAS1R2	0	0	-	-	-	-	-
+F	Protein	Frizzled	FZD2	FZD2	5	0	-	-	Primary	-	-
+C	Sensory	Taste 1	TS1R3	TAS1R3	0	0	-	-	-	-	-
+C	Orphan	C Orphans	GP156	GPR156	0	5	8IEB,8IED,...	-	-	-	-
+C	Orphan	C Orphans	GP158	GPR158	0	5	7EWL,7EWP,...	-	-	-	-
+C	Orphan	C Orphans	GP179	GPR179	0	1	8IRJ	-	-	-	-
+C	Orphan	C Orphans	RAI3	GPRC5A	0	0	-	-	-	-	-
+C	Orphan	C Orphans	GPC5B	GPRC5B	0	0	-	-	-	-	-
+C	Orphan	C Orphans	GPC5C	GPRC5C	0	0	-	-	-	-	-
+C	Orphan	C Orphans	GPC5D	GPRC5D	1	2	8YZK,9IMA	-	-	-	-
+C	Orphan	C Orphans	GPC6A	GPRC6	19	0	-	-	-	Primary	-
+D1	Ste2-like	STE2	STE2	STE2	0	1	7AD3	-	-	-	-
+F	Protein	Frizzled	FZD1	FZD1	8	2	8J9N,8J9O	-	Secondary	Secondary	-
+O1	Odorant	Odorant family 51	O51B2	OR51B2	0	0	-	-	-	-	-
+F	Protein	Frizzled	FZD3	FZD3	0	3	8JHC,8JHI,...	Primary	-	-	-
+F	Protein	Frizzled	FZD4	FZD4	3	3	6BD4,8WM9,...	-	-	-	Primary
+F	Protein	Frizzled	FZD5	FZD5	1	1	6WW2	-	-	-	-
+F	Protein	Frizzled	FZD6	FZD6	4	2	8JH7,8JHB	-	Primary	Primary	-
+F	Protein	Frizzled	FZD7	FZD7	39	4	7EVW,8YY8,...	Primary	Primary	-	-
+F	Protein	Frizzled	FZD8	FZD8	2	0	-	-	-	-	-
+F	Protein	Frizzled	FZD9	FZD9	0	0	-	-	Primary	-	-
+F	Protein	Frizzled	FZD10	FZD10	0	0	-	-	-	-	Secondary
+F	Protein	Frizzled	SMO	SMO	970	19	4JKV,4N4W,...	-	Primary	-	Primary
+O1	Odorant	Odorant family 51	O51A2	OR51A2	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51A4	OR51A4	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51A7	OR51A7	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51B6	OR51B6	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51D1	OR51D1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51E1	OR51E1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51E2	OR51E2	24	1	8F76	-	-	-	-
+O1	Odorant	Odorant family 51	O51F1	OR51F1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51F2	OR51F2	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51G1	OR51G1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51G2	OR51G2	0	1	8UXV	-	-	-	-
+O1	Odorant	Odorant family 51	O51H1	OR51H1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51I1	OR51I1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51I2	OR51I2	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51J1	OR51J1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51L1	OR51L1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51M1	OR51M1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51Q1	OR51Q1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51S1	OR51S1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51T1	OR51T1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 51	O51V1	OR51V1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52A1	OR52A1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52A5	OR52A5	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52B2	OR52B2	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52B4	OR52B4	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52B6	OR52B6	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52D1	OR52D1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52E1	OR52E1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52E2	OR52E2	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52E4	OR52E4	0	3	8HTI,8J46,...	-	-	-	-
+O1	Odorant	Odorant family 52	O52E5	OR52E5	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52E6	OR52E6	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52E8	OR52E8	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52H1	OR52H1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52I1	OR52I1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52I2	OR52I2	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52J3	OR52J3	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52K1	OR52K1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52K2	OR52K2	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52L1	OR52L1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52M1	OR52M1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52N1	OR52N1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52N2	OR52N2	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52N4	OR52N4	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52N5	OR52N5	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52P1	OR52P1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52R1	OR52R1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 52	O52W1	OR52W1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 56	O56A1	OR56A1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 56	O56A3	OR56A3	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 56	O56A4	OR56A4	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 56	O56A5	OR56A5	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 56	O56B1	OR56B1	0	0	-	-	-	-	-
+O1	Odorant	Odorant family 56	O56B4	OR56B4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1A1	OR1A1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1A2	OR1A2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1B1	OR1B1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1C1	OR1C1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1D2	OR1D2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1D4	OR1D4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1D5	OR1D5	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1E1	OR1E1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1E2	OR1E2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1E3	OR1E3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1F1	OR1F1	0	1	8UXY	-	-	-	-
+O2	Odorant	Odorant family 1	OR1G1	OR1G1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1I1	OR1I1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1J1	OR1J1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1J2	OR1J2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1J4	OR1J4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1K1	OR1K1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1L1	OR1L1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1L3	OR1L3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1L4	OR1L4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1L6	OR1L6	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1L8	OR1L8	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1M1	OR1M1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1N1	OR1N1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1N2	OR1N2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1P1	OR1P1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1Q1	OR1Q1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1S1	OR1S1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 1	OR1S2	OR1S2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2A1	OR2A1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2A2	OR2A2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2A4	OR2A4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2A5	OR2A5	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2A7	OR2A7	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	O2A12	OR2A12	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	O2A14	OR2A14	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	O2A25	OR2A25	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	O2AE1	OR2AE1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	O2AG1	OR2AG1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	O2AG2	OR2AG2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	O2AJ1	OR2AJ1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	O2AK2	OR2AK2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	O2AP1	OR2AP1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	O2AT4	OR2AT4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2B2	OR2B2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2B3	OR2B3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2B6	OR2B6	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2BB	OR2B11	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2C1	OR2C1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2C3	OR2C3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2D2	OR2D2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2D3	OR2D3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2F1	OR2F1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2F2	OR2F2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2G2	OR2G2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2G3	OR2G3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2G6	OR2G6	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2H1	OR2H1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2H2	OR2H2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2J1	OR2J1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2J2	OR2J2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2J3	OR2J3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2K2	OR2K2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2L2	OR2L2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2L3	OR2L3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2L5	OR2L5	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2L8	OR2L8	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2LD	OR2L13	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2M2	OR2M2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2M3	OR2M3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2M4	OR2M4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2M5	OR2M5	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2M7	OR2M7	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2S1	OR2S2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2T1	OR2T1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2T2	OR2T2	0	1	8UY0	-	-	-	-
+O2	Odorant	Odorant family 2	OR2T3	OR2T3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2T4	OR2T4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2T5	OR2T5	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2T6	OR2T6	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2T7	OR2T7	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2T8	OR2T8	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	O2T10	OR2T10	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	O2T11	OR2T11	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	O2T12	OR2T12	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	O2T27	OR2T27	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	O2T29	OR2T29	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	O2T33	OR2T33	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	O2T34	OR2T34	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	O2T35	OR2T35	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2V1	OR2V1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2V2	OR2V2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2W1	OR2W1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2W3	OR2W3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2Y1	OR2Y1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 2	OR2Z1	OR2Z1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 3	OR3A1	OR3A1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 3	OR3A2	OR3A2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 3	OR3A3	OR3A3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4A5	OR4A5	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4A8	OR4A8	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	O4A15	OR4A15	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	O4A16	OR4A16	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	O4A47	OR4A47	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4B1	OR4B1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4C3	OR4C3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4C5	OR4C5	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4C6	OR4C6	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4CB	OR4C11	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4CC	OR4C12	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4CD	OR4C13	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4CF	OR4C15	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4CG	OR4C16	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	O4C45	OR4C45	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	O4C46	OR4C46	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4D1	OR4D1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4D2	OR4D2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4D5	OR4D5	0	1	8UYQ	-	-	-	-
+O2	Odorant	Odorant family 4	OR4D6	OR4D6	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4D9	OR4D9	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4DA	OR4D10	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4DB	OR4D11	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4E1	OR4E1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4E2	OR4E2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4F3	OR4F3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4F4	OR4F4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4F5	OR4F5	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4F6	OR4F6	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	O4F15	OR4F15	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	O4F17	OR4F17	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	O4F21	OR4F21	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4K1	OR4K1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4K2	OR4K2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4K3	OR4K3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4K5	OR4K5	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4KD	OR4K13	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4KE	OR4K14	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4KF	OR4K15	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4KH	OR4K17	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4L1	OR4L1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4M1	OR4M1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4M2	OR4M2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	ORM2B	OR4M2B	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4N2	OR4N2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4N4	OR4N4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	ORN4C	OR4N4C	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4N5	OR4N5	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4P4	OR4P4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4Q2	OR4Q2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4Q3	OR4Q3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4S1	OR4S1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4S2	OR4S2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4X1	OR4X1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 4	OR4X2	OR4X2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5A1	OR5A1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5A2	OR5A2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	O5AC1	OR5AC1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	O5AC2	OR5AC2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	O5AK2	OR5AK2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	O5AL1	OR5AL1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	O5AN1	OR5AN1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	O5AP2	OR5AP2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	O5AR1	OR5AR1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	O5AS1	OR5AS1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	O5AU1	OR5AU1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5B2	OR5B2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5B3	OR5B3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5BC	OR5B12	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5BH	OR5B17	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	O5B21	OR5B21	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5C1	OR5C1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5DD	OR5D13	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5DE	OR5D14	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5DG	OR5D16	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5DI	OR5D18	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5F1	OR5F1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5G3	OR5G3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5H1	OR5H1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5H2	OR5H2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5H6	OR5H6	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5H8	OR5H8	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	O5H14	OR5H14	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	O5H15	OR5H15	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5I1	OR5I1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5J2	OR5J2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5K1	OR5K1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5K2	OR5K2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5K3	OR5K3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5K4	OR5K4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5L1	OR5L1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5L2	OR5L2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5M1	OR5M1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5M3	OR5M3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5M8	OR5M8	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5M9	OR5M9	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5MA	OR5M10	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5MB	OR5M11	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5P2	OR5P2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5P3	OR5P3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5T1	OR5T1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5T2	OR5T2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5T3	OR5T3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5V1	OR5V1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 5	OR5W2	OR5W2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6A2	OR6A2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6B1	OR6B1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6B2	OR6B2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6B3	OR6B3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6C1	OR6C1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6C2	OR6C2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6C3	OR6C3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6C4	OR6C4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6C6	OR6C6	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	O6C65	OR6C65	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	O6C68	OR6C68	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	O6C70	OR6C70	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	O6C74	OR6C74	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	O6C75	OR6C75	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	O6C76	OR6C76	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6F1	OR6F1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6J1	OR6J1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6K2	OR6K2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6K3	OR6K3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6K6	OR6K6	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6M1	OR6M1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6N1	OR6N1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6N2	OR6N2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6P1	OR6P1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6Q1	OR6Q1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6S1	OR6S1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6T1	OR6T1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6V1	OR6V1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6X1	OR6X1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 6	OR6Y1	OR6Y1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 7	OR7A5	OR7A5	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 7	OR7AA	OR7A10	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 7	OR7AH	OR7A17	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 7	OR7C1	OR7C1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 7	OR7C2	OR7C2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 7	OR7D2	OR7D2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 7	OR7D4	OR7D4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 7	O7E24	OR7E24	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 7	OR7G1	OR7G1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 7	OR7G2	OR7G2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 7	OR7G3	OR7G3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8A1	OR8A1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8B2	OR8B2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8B3	OR8B3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8B4	OR8B4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8B8	OR8B8	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8BC	OR8B12	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8D1	OR8D1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8D2	OR8D2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8D4	OR8D4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8G1	OR8G1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8G5	OR8G5	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8H1	OR8H1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8H2	OR8H2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8H3	OR8H3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8I2	OR8I2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8J1	OR8J1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8J2	OR8J2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8J3	OR8J3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8K1	OR8K1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8K3	OR8K3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8K5	OR8K5	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8S1	OR8S1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8U1	OR8U1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR5R1	OR8U3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8U8	OR8U8	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 8	OR8U9	OR8U9	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 9	OR9A2	OR9A2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 9	OR9A4	OR9A4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 9	OR9G1	OR9G1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 9	OR9G4	OR9G4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 9	OR9G9	OR9G9	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 9	OR9I1	OR9I1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 9	OR9K2	OR9K2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 9	OR9Q1	OR9Q1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 9	OR9Q2	OR9Q2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10A2	OR10A2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10A3	OR10A3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10A4	OR10A4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10A5	OR10A5	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10A6	OR10A6	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10A7	OR10A7	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10AC	OR10AC1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10AD	OR10AD1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10AG	OR10AG1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10C1	OR10C1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10D3	OR10D3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10G2	OR10G2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10G3	OR10G3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10G4	OR10G4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10G6	OR10G6	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10G7	OR10G7	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10G8	OR10G8	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10G9	OR10G9	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10H1	OR10H1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10H2	OR10H2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10H3	OR10H3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10H4	OR10H4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10H5	OR10H5	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10J1	OR10J1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10J3	OR10J3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10J4	OR10J4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10J5	OR10J5	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10K1	OR10K1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10K2	OR10K2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10P1	OR10P1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10Q1	OR10Q1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10R2	OR10R2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10S1	OR10S1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10T2	OR10T2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10V1	OR10V1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10W1	OR10W1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10X1	OR10X1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 10	O10Z1	OR10Z1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 11	O11A1	OR11A1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 11	O11G2	OR11G2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 11	O11H1	OR11H1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 11	O11H2	OR11H2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 11	O11H4	OR11H4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 11	O11H6	OR11H6	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 11	O11H7	OR11H7	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 11	O11HC	OR11H12	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 11	O11L1	OR11L1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 12	O12D1	OR12D1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 12	O12D2	OR12D2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 12	O12D3	OR12D3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 13	O13A1	OR13A1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 13	O13C2	OR13C2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 13	O13C3	OR13C3	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 13	O13C4	OR13C4	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 13	O13C5	OR13C5	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 13	O13C7	OR13C7	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 13	O13C8	OR13C8	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 13	O13C9	OR13C9	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 13	O13D1	OR13D1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 13	O13F1	OR13F1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 13	O13G1	OR13G1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 13	O13H1	OR13H1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 13	O13J1	OR13J1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 14	O14A2	OR14A2	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 14	O14AG	OR14A16	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 14	O14CZ	OR14C36	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 14	O14I1	OR14I1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 14	O14J1	OR14J1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 14	O14K1	OR14K1	0	0	-	-	-	-	-
+O2	Odorant	Odorant family 14	O14L1	OR14L1	0	0	-	-	-	-	-
+T2	Sensory	Taste 2	TA2R1	TAS2R1	5	0	-	-	-	-	-
+T2	Sensory	Taste 2	TA2R3	TAS2R3	2	0	-	-	-	-	-
+T2	Sensory	Taste 2	TA2R4	TAS2R4	6	0	-	-	-	-	-
+T2	Sensory	Taste 2	TA2R5	TAS2R5	4	0	-	-	-	-	-
+T2	Sensory	Taste 2	TA2R7	TAS2R7	4	0	-	-	-	-	-
+T2	Sensory	Taste 2	TA2R8	TAS2R8	325	0	-	-	-	-	-
+T2	Sensory	Taste 2	TA2R9	TAS2R9	4	0	-	-	-	-	-
+T2	Sensory	Taste 2	T2R10	TAS2R10	9	0	-	-	-	-	-
+T2	Sensory	Taste 2	T2R13	TAS2R13	3	0	-	-	-	-	-
+T2	Sensory	Taste 2	T2R14	TAS2R14	174	15	8RQL,8VY7,...	-	-	-	-
+T2	Sensory	Taste 2	T2R16	TAS2R16	8	0	-	-	-	-	-
+T2	Sensory	Taste 2	T2R19	TAS2R19	1	0	-	-	-	-	-
+T2	Sensory	Taste 2	T2R20	TAS2R20	7	0	-	-	-	-	-
+T2	Sensory	Taste 2	T2R30	TAS2R30	4	0	-	-	-	-	-
+T2	Sensory	Taste 2	T2R31	TAS2R31	14	0	-	-	-	-	-
+T2	Sensory	Taste 2	T2R38	TAS2R38	13	0	-	-	-	-	-
+T2	Sensory	Taste 2	T2R39	TAS2R39	16	0	-	-	-	-	-
+T2	Sensory	Taste 2	T2R40	TAS2R40	5	0	-	-	-	-	-
+T2	Sensory	Taste 2	T2R41	TAS2R41	2	0	-	-	-	-	-
+T2	Sensory	Taste 2	T2R42	TAS2R42	1	0	-	-	-	-	-
+T2	Sensory	Taste 2	T2R43	TAS2R43	14	0	-	-	-	-	-
+T2	Sensory	Taste 2	T2R45	TAS2R45	1	0	-	-	-	-	-
+T2	Sensory	Taste 2	T2R46	TAS2R46	26	3	7XP4,7XP5,...	-	-	-	-
+T2	Sensory	Taste 2	T2R50	TAS2R50	3	0	-	-	-	-	-
+T2	Sensory	Taste 2	T2R60	TAS2R60	1	0	-	-	-	-	-
+Other	Orphan	Other GPCR orphans	GP107	GPR107	0	0	-	-	-	-	-
+Other	Orphan	Other GPCR orphans	G137A	GPR137	0	0	-	-	-	-	-
+Other	Orphan	Other GPCR orphans	TPRA1	TPRA1	0	0	-	-	-	-	-
+Other	Orphan	Other GPCR orphans	GP143	GPR143	0	0	-	-	-	-	-
+Other	Orphan	Other GPCR orphans	GP157	GPR157	0	0	-	-	-	-	-
